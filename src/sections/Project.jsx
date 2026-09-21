@@ -11,7 +11,7 @@ const projects = [
     image: m1,
     tags: ["React", "Typescript", ],
     link: "https://prestige-spa.vercel.app/",
-    github: "https://github.com/danieljaato",
+    github: "",
   },
 
   
@@ -23,7 +23,7 @@ const projects = [
     image: m1,
     tags: ["React", "Typescript", "NodeJS"],
     link: "#",
-    github: "https://github.com/danieljaato",
+    github: "",
   },
 
    {
@@ -33,7 +33,7 @@ const projects = [
     image: da,
     tags: ["React", "Typescript"],
     link: "https://jat-autos.vercel.app/",
-    github: "https://github.com/danieljaato",
+    github: "",
   },
 
    {
@@ -43,7 +43,7 @@ const projects = [
     image: de,
     tags: ["React", "Typescript", "NodeJS"],
     link: "https://pet-hub-lake.vercel.app/",
-    github: "https://github.com/danieljaato",
+    github: "",
   },
 ];
 

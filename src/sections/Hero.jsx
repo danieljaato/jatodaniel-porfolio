@@ -125,8 +125,8 @@ const Hero = () => {
         </span>
 
         {[
-          { icon: FaGithub, href: "#" },
-          { icon: FaLinkedin, href: "#" },
+          { icon: FaGithub, href: "https://github.com/danieljaato" },
+          { icon: FaLinkedin, href: "www.linkedin.com/in/daniel-jato-879ab2432" },
           { icon: FaTwitter, href: "#" },
         ].map((social, idx) => (
           <a
